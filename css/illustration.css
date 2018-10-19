@@ -1,0 +1,61 @@
+.home{
+    background-image:url("../images/house.jpg")
+}
+.myself{
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+.portrait{
+    height:100px;
+    width: 120px;
+    border:20px;
+
+}
+.fontawesome{
+    font-size:50px;
+    display:flex;
+    justify-content: center;
+    width:100%;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    padding: 20px;
+}
+.fa, .fas {
+    font-weight: 900;
+    padding: 20px;
+}
+.menu{
+    display:flex;
+    justify-content: space-around;
+    width:100%;
+}
+
+.item-link{
+    color:grey;
+    text-indent:26em;
+    list-style:none; 
+    color:grey;
+    padding: 20px;
+    font-family: 'sofia';
+    text-decoration:none;
+}
+.item-underline{
+    text-decoration: underline;
+}
+.gallery{
+    display:flex;
+}
+.paintings{
+    width:300px;
+    height:300px;
+    margin:20px;
+}
+
+footer {
+    max-width: 980px;
+    text-align: center;
+    margin: auto;
+    padding:100px;
+}
